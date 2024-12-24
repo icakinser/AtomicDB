@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/flatdb/__init__.py
+src/flatdb/database.py
+src/flatdb/indexes.py
+src/flatdb/queries.py
+src/flatdb/schema.py
+src/flatdb/security.py
+src/flatdb/storage.py
+src/flatdb.egg-info/PKG-INFO
+src/flatdb.egg-info/SOURCES.txt
+src/flatdb.egg-info/dependency_links.txt
+src/flatdb.egg-info/requires.txt
+src/flatdb.egg-info/top_level.txt

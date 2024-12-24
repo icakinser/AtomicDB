@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: flatdb
+Version: 0.1.0
+Summary: A lightweight document database inspired by TinyDB
+Author: Robert Kinser
+Keywords: database,document-store,json
+Requires-Python: >=3.8
